@@ -32,23 +32,23 @@ export const statistics = [
 export const products = [
     {
         imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
+        name: "Saloman women-blue",
+        price: "$250.20",
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "Black Sneakers",
+        price: "$230.20",
     },
     {
         imgURL: shoe6,
-        name: "Nike Air Jordan-100",
+        name: "Allbirds - Wool runner",
         price: "$220.20",
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
+        name: "PUMA Falcon Xt Ind.",
+        price: "$239.20",
     },
 ];
 
@@ -74,7 +74,7 @@ export const reviews = [
     {
         imgURL: customer1,
         customerName: 'Morich Brown',
-        rating: 4.5,
+        rating: 4.4,
         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
     },
     {
@@ -94,8 +94,8 @@ export const footerLinks = [
             { name: "Air Max 1", link: "/" },
             { name: "Air Jordan 1", link: "/" },
             { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
+            { name: "Campus Waffle Racer", link: "/" },
+            { name: "Puma Cortez", link: "/" },
         ],
     },
     {
@@ -111,7 +111,7 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+            { name: "customer@footgear.com", link: "mailto:customer@footgear.com" },
             { name: "+92554862354", link: "tel:+92554862354" },
         ],
     },
